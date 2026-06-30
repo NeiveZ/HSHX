@@ -1,0 +1,3 @@
+# HSHX has no required third-party dependencies for hashing/identifying/
+# cracking MD5, SHA-family, and NTLM. bcrypt support is optional — see
+# requirements-optional.txt.

@@ -1,0 +1,3 @@
+# Only needed for bcrypt hash generation/cracking (hash/generate TYPE=bcrypt,
+# hash/crack ALGO=bcrypt). Everything else works without this.
+bcrypt>=4.0
